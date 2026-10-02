@@ -1,0 +1,16 @@
+LENSCLEAR ONE
+Clarity, uninterrupted.
+
+PRODUCT CONCEPT
+A self-cleaning camera lens designed to help keep loose dust from interrupting the shot.
+
+HOW IT WORKS
+The proposed system combines a front optical element, an ultrasonic actuator, a precision lens housing, and a camera mount. The actuator creates high-frequency vibrations at the optical surface to help dislodge loose dust.
+
+DESIGN INTENT
+Integrate optical performance and a cleaning mechanism in a single assembly, reducing interruptions to photography.
+
+DEVELOPMENT STATUS
+LensClear One is a concept in development. Renderings and the exploded view are illustrative. Final performance, compatibility, power requirements, dimensions, pricing, and launch timing have not been established. Self-cleaning does not remove the need for all manual cleaning, particularly fingerprints, oils, and stubborn debris.
+
+© 2026 LensClear
